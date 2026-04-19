@@ -1,0 +1,32 @@
+1. Introduction to Routing	
+2. Installaion:  npm install react-router-dom
+3. Common react-router-dome components 
+		- BrowserRouter: Wrap App components in BrowserRouter 
+		- Routes & Route: Configure Route using Routes, Route
+		- Link: Use Link cmponent to refer components instead of <a> 
+		- Outlet: Use Outlet to define page layouts 
+
+
+Routing Configuration
+	Routes
+	Route
+	Dynamic Routes
+		Routing Parameter - useParams()
+				
+	Any Route - *
+	Routing Priority
+	Nested Routes
+		Nested Route without path attribute
+		Shared Layout
+			Outlet	
+
+		Nested Route without element attribute
+		
+		Nested Route with both (path & element) attributes
+		index
+			
+
+
+
+
+
